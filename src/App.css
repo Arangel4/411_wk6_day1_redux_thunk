@@ -4,6 +4,12 @@
   flex-wrap: wrap;
 }
 
+.importButton {
+  margin-top: 5%;
+  margin-left: 15%;
+  margin-right: 15%;
+}
+
 .card {
   width: 20vw;
   margin: 25px;
